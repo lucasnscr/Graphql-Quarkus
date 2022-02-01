@@ -7,7 +7,7 @@ Implementing Api with Java, Quarkus, GraphQL and Docker.
 ### Project description
 🚀 This project aims to create an application with microservices architecture by applying the Saga(Orchestration) pattern with Quarkus and Kafka for all development. Dockerfile files are available for virtualization of microservices.
 
-## Installation and  Technologies##
+## Installation and  Technologies
 
 The following technologies were used to carry out the project and it is necessary to install some items:
 - Java
