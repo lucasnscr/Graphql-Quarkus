@@ -1,7 +1,5 @@
 # Graphql-Quarkus
 
-# Quarkus-GraphQL
-
 Implementing Api with Java, Quarkus, GraphQL and Docker.
 
 ### Project description
